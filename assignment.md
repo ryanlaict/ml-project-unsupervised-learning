@@ -1,8 +1,8 @@
-Welcome to the Unsupervised Learning project! In this project, you'll apply a few different Unsupervised Learning techniques to gain insights from the a real world dataset. 
+Welcome to the Unsupervised Learning project! In this project, you'll apply a few different Unsupervised Learning techniques to gain insights from the a real-world dataset. 
 
 ## Context
 Clustering is a core method in unsupervised learning that allows us to uncover hidden patterns and groupings in data *without* relying on labels. In this project, you will explore different clustering techniques and compare their effectiveness. 
-Optionally, you'll use Principal COmponent Analysis (PCA) to reduce dimensionality and visualize the clusters you identify.
+Optionally, you'll use Principal Component Analysis (PCA) to reduce dimensionality and visualize the clusters you identify.
 
 ## Learning Objectives
 By completing this project, you will have a chance to:
@@ -17,7 +17,7 @@ Imagine you are a data scientist working for a company looking to segment its cu
 # Part 1 - EDA
 - Explore the dataset you've been given
     - Look for missing values, outliers, inconsistencies, etc
-    - Examine the distribution of numerical and categrical features
+    - Examine the distribution of numerical and categorical features
     - Normalize/standardize the data if required for clustering algorithms  
 Complete the `1 - EDA.ipynb` notebook and fill in **Step 1** in your `README.md` to demonstrate your completion of these tasks.
 
@@ -30,14 +30,14 @@ Complete the `2 - K-Means Clustering.ipynb` notebook and fill in **Step 2** in y
 
 # Part 3 - Hierarchical Clustering
 - Perform hierarchical clustering on the dataset
-- Use a dendogram to determine the optimal number of clusters
+- Use a dendrogram to determine the optimal number of clusters
 - Analyze the characteristics of the created clusters
 Complete the `3 - Hierarchical Clustering.ipynb` notebook and fill in **Step 3** in your `README.md` to demonstrate your completion of these tasks
 
 # Part 4 - DBSCAN
 - Apply the DBSCAN algorithm to the dataset
-- Experiment withh different hyperparameters to optimize clustering results
-- Identify (describe the features of) ay noise points (outliers) detected by the algorithm
+- Experiment with different hyperparameters to optimize clustering results
+- Identify (describe the features of) nay noise points (outliers) detected by the algorithm
 Complete the `4 - DBSCAN.ipynb` notebook and fill in **Step 4** in your `README.md` to demonstrate your completion of these tasks
 
 # Part 5 - Results and Evaluation
@@ -52,7 +52,7 @@ Complete the `4 - DBSCAN.ipynb` notebook and fill in **Step 4** in your `README.
     1. Briefly discuss the strengths and weaknesses of each clustering method for this specific dataset
     2. Which clustering method performed best, and why?
     3. Were there significant differences in the clusters identified by your preferred algorithm? Describe them
-    4. What actionable insights  can be derived from the clustering results? 
+    4. What actionable insights can be derived from the clustering results? 
     <br> 
     *eg:* 
         - "frequent repeat customers tend to purchase multiple types of products" 
